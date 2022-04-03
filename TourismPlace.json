@@ -1,0 +1,46 @@
+[
+	{
+		"name": "WPS Sumenep",
+        "location": "Kasengan, Manding, Kabupaten Sumenep, Jawa Timur",
+        "imageAsset": "assets/images/wps1.png",
+        "images": [
+          "assets/images/wps2.png",
+          "assets/images/wps3.jpg",
+          "assets/images/wps4.jpg"
+        ],
+        "desc": "Taman rekreasi air di tempat seluas 2,2 ha, dengan seluncuran penuh warna, kolam renang & wahana petualangan. Kelebihan dari tempat ini adalah banyaknya wahana permainan air. Karena sangat luas areanya, di Waterpark Sumenep ini juga ada fasilitas mini train. Mini train ini bisa digunakan oleh pengunjung yang ingin berkeliling di area WPS.",
+        "open": "Setiap Hari",
+        "sal": "Rp15.000",
+        "time": "08.00 - 16.00 WIB"
+	},
+	{
+		"name": "Pantai Gili Labak",
+        "location": "Pulau Gili Labak",
+        "imageAsset": "assets/images/gililabak.jpg",
+        "images": [
+          "assets/images/gililabak1.jpg",
+          "assets/images/gililabak2.jpg",
+          "assets/images/gililabak3.jpg",
+          "assets/images/gililabak4.jpg"
+        ],
+        "desc": "Gili Labak atau Gili Lawak, merupakan salah satu tujuan wisata paling favorit ketika berkunjung ke Kabupaten Sumenep, Jawa Timur. Lokasinya berada di sebelah tenggara Pulau Puteran atau Pulau Madura. Pulau ini tak begitu besar, namun lautan yang mengelilinginya sangatlah indah. Laut biru kehijauan yang jernih juga bersih, merupakan salah satu daya pikatnya. Dengan keindahan yang dimilikinya, banyak beberapa jasa travel yang memberikan program travelling menuju Gili Labak.",
+        "open": "Setiap Hari",
+        "sal": "Rp10.000",
+        "time": "08.00 - 16.00 WIB"
+	},
+	{
+		"name": "Keraton Sumenep",
+        "location": "Jln. Dr.Soetomo, Pajagalan",
+        "imageAsset": "assets/images/keratonsumenep.jpg",
+        "images": [
+          "assets/images/keratonsumenep1.jpg",
+          "assets/images/keratonsumenep2.jpg",
+          "assets/images/keratonsumenep3.jpg",
+          "assets/images/keratonsumenep4.jpg"
+        ],
+        "desc": "Keraton Sumenep adalah tempat kediaman resmi para Adipati/Raja-Raja selain sebagai tempat untuk menjalankan roda pemerintahan. Kerajaan Sumenep sendiri bisa dibilang sifatnya sebagai kerajaan kecil (setingkat Kadipaten) kala itu, sebab sebelum wilayah Sumenep dikuasai VOC wilayah Sumenep sendiri masih harus membayar upeti kepada kerajaan-kerajaan besar (Singhasari Majapahit, dan Kasultanan Mataram).",
+        "open": "Senin - Jumat",
+        "sal": "Rp6.000",
+        "time": "08.00 - 15.00 WIB"
+	}
+]
